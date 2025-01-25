@@ -15,11 +15,12 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Hermodesign/social_proof_section.git)
+- Solution URL: [Add solution URL here](https://github.com/Hermodesign/Expenses-chart-component.git)
+- Demo: [Demo](https://charthermo.netlify.app/)
 
 ### Screenshot
 
-![Screenshot](./scr.jpeg)
+![Screenshot](./scr.png)
 
 ## My process
 
